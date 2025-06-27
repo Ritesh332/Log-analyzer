@@ -1,0 +1,6 @@
+time,user,ip,threat_type,method,url,status
+Jun 10 14:32:23,admin,192.168.1.100,brute_force,,,
+Jun 10 14:32:24,root,192.168.1.100,brute_force,,,
+Jun 10 14:32:25,root,192.168.1.100,brute_force,,,
+Jun 10 14:32:26,root,192.168.1.100,brute_force,,,
+10/Jun/2025:13:55:37 +0000,,203.0.113.1,blacklist,GET,/admin,404
